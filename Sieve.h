@@ -1,17 +1,3 @@
-
-
-// ********************************************************
-// * Sieve Class                                          *
-// * Description: Manages a class called Sieve that       *
-// *    produces a list of prime numbers up to a maximum  *
-// *    value.  Created for the COP330 course as an       *
-// *    assignment.  Publishing any solution of this      *
-// *    problem violates copyright laws.                  *
-// * Date: December 24th, 2023                            *
-// * Author: Dr. David A. Gaitros                         *
-// ********************************************************
-//
-
 #ifndef SIEVE_SIEVE_HPP
 #define SIEVE_SIEVE_HPP
 #include <iostream>
