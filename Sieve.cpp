@@ -1,22 +1,3 @@
-//
-// Created by Shawn Plain on 2/11/24.
-//
-// ********************************************************
-// * Sieve Source File                                    *
-// * Description: Defines the functions and necessary     *
-// *    data within the header file for the Sieve class.  *
-// *    value.  Created for the COP330 course as an       *
-// *    This file handles all member functions and        *
-// *     constructors to  be used for the sieve class     *
-// *     within the main file.                            *
-// * Date: February 15, 2024                              *
-// * Author: Shawn Plain                                  *
-// ********************************************************
-//
-
-
-
-
 #ifndef SIEVE_SIEVE_CPP
 #define SIEVE_SIEVE_CPP
 
